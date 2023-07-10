@@ -465,3 +465,5 @@ bool testCrash()
 	}
 	return false;
 }
+
+// ≤‚ ‘Ã·Ωª
